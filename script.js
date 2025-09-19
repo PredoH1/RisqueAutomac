@@ -147,7 +147,7 @@ ${zplNome}
     `;
   });
 
-  fetch("http://172.24.120.148:9100", {
+  fetch("IP IMPRESSORA", {
     method: "POST",
     body: zplCompleto
   })
